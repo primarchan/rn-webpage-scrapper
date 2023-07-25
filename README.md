@@ -3,5 +3,6 @@
 ## Installation
 
 - `npx create-expo {프로젝트명}`
+- `npx expo start`
 - `npm install --save @react-navigation/native react-native-safe-area-context react-native-screens`
 - ``
